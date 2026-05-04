@@ -1,0 +1,15 @@
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Data files — not committed (see data/README.md)
+data/*.csv
+data/*.xlsx
+data/*.xls
+data/*.zip
+data/*.parquet
+data/*.json
